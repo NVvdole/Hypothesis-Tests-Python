@@ -1,0 +1,33 @@
+Independence Chi-Square Test
+
+r = number of rows
+c = number of columns
+O = observed values
+
+Enter r: 2
+Enter c: 5
+Enter O11: 8
+Enter O12: 10
+Enter O13: 6
+Enter O14: 9
+Enter O15: 9
+Enter O21: 4
+Enter O22: 6
+Enter O23: 9
+Enter O24: 6
+Enter O25: 5
+
+Expected
+E = [[7.0, 9.333333333333334, 8.75, 8.75, 8.166666666666666], [5.0, 
+6.666666666666667, 6.25, 6.25, 5.833333333333333]]
+
+Hypotheses
+H0: Independent
+HA: Not Independent
+
+Test Statistic and Degrees of Freedom
+X^2 = 2.7526530612244895
+df = 4
+
+P-Value
+p = 0.6000329492570033
