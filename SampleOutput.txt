@@ -1,0 +1,31 @@
+Two Standard Deviation F-Test
+
+sx = first sample std dev
+nx = first sample size
+sy = second sample std dev
+ny = second sample size
+
+Enter sx: 1.5
+Enter nx: 45
+Enter sy: 2.5
+Enter ny: 50
+
+Test Statistic and Degrees of Freedom
+F = 0.36
+df1 = 44
+df2 = 49
+
+Two-Sided Test
+H0: σx == σy
+HA: σx =/= σy
+p = 0.00079405606662029
+
+Left-Sided Test
+H0: σx >= σy
+HA: σx < σy
+p = 0.000397028033310145
+
+Right-Sided Test
+H0: σx <= σy
+HA: σx > σy
+p = 0.9996029719666899
