@@ -1,0 +1,41 @@
+One-Way ANOVA F-Test
+
+nx = number of cells per Category
+x1 = Category 1 values
+x2 = Category 2 values
+x3 = Category 3 values
+
+Enter nx: 5
+Enter x11: 3
+Enter x12: 3
+Enter x13: 4
+Enter x14: 5
+Enter x15: 5
+Enter x21: 3
+Enter x22: 5
+Enter x23: 5
+Enter x24: 5
+Enter x25: 7
+Enter x31: 4
+Enter x32: 5
+Enter x33: 6
+Enter x34: 7
+Enter x35: 8
+
+Hypotheses
+H0: μ1 == μ2 == μ3
+HA: μ1 =/= μ2 =/= μ3
+
+Test Statistic and P-Value
+F = 2.7272727272727275
+p = 0.10559326410293579
+
+Factor
+df = 2
+SS = 10.0
+MS = 5.0
+
+Error
+df = 12
+SS = 22.0
+MS = 1.8333333333333333
