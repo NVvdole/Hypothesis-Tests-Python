@@ -1,0 +1,34 @@
+Two Mean T-Test (Pooled Variance)
+
+x- = first sample mean
+sx = first sample std dev
+nx = first sample size
+y- = second sample mean
+sy = second sample std dev
+ny = second sample size
+
+Enter x-: 5.5
+Enter sx: 1.5
+Enter nx: 15
+Enter y-: 6.5
+Enter sy: 1.8
+Enter ny: 20
+
+Test Statistic and Degrees of Freedom
+t = -1.7434201093860169
+df = 33
+
+Two-Sided Test
+H0: μx == μy
+HA: μx =/= μy
+p = 0.09057162074496562
+
+Left-Sided Test
+H0: μx >= μy
+HA: μx < μy
+p = 0.04528581037248281
+
+Right-Sided Test
+H0: μx <= μy
+HA: μx > μy
+p = 0.9547141896275172
