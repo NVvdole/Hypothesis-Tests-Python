@@ -1,0 +1,28 @@
+One Standard Deviation Chi-Square Test
+
+σx0 = hypothesized population std dev
+sx = sample std dev
+nx = sample size
+
+Enter σx0: 2.5
+Enter sx: 1.5
+Enter nx: 45
+
+Test Statistic and Degrees of Freedom
+X^2 = 15.84
+df = 44
+
+Two-Sided Test
+H0: σx == 2.5
+HA: σx =/= 2.5
+p = 5.7731467888674216e-05
+
+Left-Sided Test
+H0: σx >= 2.5
+HA: σx < 2.5
+p = 2.8865733944337108e-05
+
+Right-Sided Test
+H0: σx <= 2.5
+HA: σx > 2.5
+p = 0.9999711342660557
