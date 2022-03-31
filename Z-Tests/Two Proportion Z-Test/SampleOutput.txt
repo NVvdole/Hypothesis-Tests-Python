@@ -1,0 +1,34 @@
+Two Proportion Z-Test
+
+x = first sample successes
+nx = first sample size
+y = second sample successes
+ny = second sample size
+
+Enter x: 25
+Enter nx: 100
+Enter y: 35
+Enter ny: 100
+
+Proportions
+px^ = 0.25
+py^ = 0.35
+p^ = 0.3
+
+Test Statistic
+z = -1.543033499620919
+
+Two-Sided Test
+H0: px == py
+HA: px =/= py
+p = 0.12282264810139258
+
+Left-Sided Test
+H0: px >= py
+HA: px < py
+p = 0.06141132405069629
+
+Right-Sided Test
+H0: px <= py
+HA: px > py
+p = 0.9385886759493037
