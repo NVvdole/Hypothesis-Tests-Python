@@ -1,0 +1,29 @@
+One Mean Z-Test
+
+μx0 = hypothesized population mean
+σx = population std dev
+x- = sample mean
+nx = sample size
+
+Enter μx0: 6.5
+Enter σx: 1.5
+Enter x-: 5.5
+Enter nx: 45
+
+Test Statistic
+z = -4.47213595499958
+
+Two-Sided Test
+H0: μx == 6.5
+HA: μx =/= 6.5
+p = 7.74421643104407e-06
+
+Left-Sided Test
+H0: μx >= 6.5
+HA: μx < 6.5
+p = 3.872108215522035e-06
+
+Right-Sided Test
+H0: μx <= 6.5
+HA: μx > 6.5
+p = 0.9999961278917845
