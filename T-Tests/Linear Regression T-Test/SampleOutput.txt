@@ -1,0 +1,53 @@
+Linear Regression & Correlation T-Test
+
+n = sample size
+x = predictor data
+y = response data
+
+Enter n: 10
+Enter x1: 6
+Enter x2: 7
+Enter x3: 7
+Enter x4: 8
+Enter x5: 12
+Enter x6: 14
+Enter x7: 15
+Enter x8: 16
+Enter x9: 16
+Enter x10: 19
+Enter y1: 14
+Enter y2: 15
+Enter y3: 15
+Enter y4: 17
+Enter y5: 18
+Enter y6: 18
+Enter y7: 19
+Enter y8: 24
+Enter y9: 25
+Enter y10: 29
+
+Linear Regression
+y = b0 + b1x
+b0 = 7.767346938775509
+b1 = 0.9693877551020408
+r = 0.9100351638330877
+r^2 = 0.8281639994127148
+
+Test Statistic and Degrees of Freedom
+t = 6.209349271073461
+df = 8
+
+Two-Sided Test
+H0: β1 == 0 and ρ == 0
+HA: β1 =/= 0 and ρ =/= 0
+p = 0.00025680009792667985
+
+Left-Sided Test
+H0: β1 >= 0 and ρ >= 0
+HA: β1 < 0 and ρ < 0
+p = 0.9998715999510367
+
+Right-Sided Test
+H0: β1 <= 0 and ρ <= 0
+HA: β1 > 0 and ρ > 0
+p = 0.00012840004896330637
