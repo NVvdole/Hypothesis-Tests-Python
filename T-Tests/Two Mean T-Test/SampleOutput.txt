@@ -1,0 +1,34 @@
+Two Mean T-Test (Unpooled Variance)
+
+x- = first sample mean
+sx = first sample std dev
+nx = first sample size
+y- = second sample mean
+sy = second sample std dev
+ny = second sample size
+
+Enter x-: 5.5
+Enter sx: 1.5
+Enter nx: 15
+Enter y-: 6.5
+Enter sy: 2.5
+Enter ny: 20
+
+Test Statistic and Degrees of Freedom
+t = -1.4704292441876157
+df = 31.7041615880202
+
+Two-Sided Test
+H0: μx == μy
+HA: μx =/= μy
+p = 0.1513012198695794
+
+Left-Sided Test
+H0: μx >= μy
+HA: μx < μy
+p = 0.0756506099347897
+
+Right-Sided Test
+H0: μx <= μy
+HA: μx > μy
+p = 0.9243493900652103
