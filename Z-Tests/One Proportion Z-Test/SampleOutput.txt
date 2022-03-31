@@ -1,0 +1,30 @@
+One Proportion Z-Test
+
+px0 = hypothesized population proportion
+x = sample successes
+nx = sample size
+
+Enter px0: 0.35
+Enter x: 25
+Enter nx: 100
+
+Proportion
+px^ = 0.25
+
+Test Statistic
+z = -2.0965696734438364
+
+Two-Sided Test
+H0: px == 0.35
+HA: px =/= 0.35
+p = 0.036031686218233584
+
+Left-Sided Test
+H0: px >= 0.35
+HA: px < 0.35
+p = 0.018015843109116792
+
+Right-Sided Test
+H0: px <= 0.35
+HA: px > 0.35
+p = 0.9819841568908833
