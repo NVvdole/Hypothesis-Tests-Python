@@ -1,0 +1,35 @@
+Goodness-of-Fit Chi-Square Test
+
+n = number of cells
+O = observed values
+p = probabilities
+df = degrees of freedom
+
+Enter n: 6
+Enter O1: 7
+Enter O2: 6
+Enter O3: 11
+Enter O4: 15
+Enter O5: 13
+Enter O6: 8
+Enter p1: 0.166666
+Enter p2: 0.166666
+Enter p3: 0.166666
+Enter p4: 0.166666
+Enter p5: 0.166666
+Enter p6: 0.166666
+Enter df: 5
+
+Expected
+E = [9.99996, 9.99996, 9.99996, 9.99996, 9.99996, 9.99996]
+
+Hypotheses
+H0: O == E
+HA: O =/= E
+
+Test Statistic and Degrees of Freedom
+X^2 = 6.400025601062405
+df = 5
+
+P-Value
+p = 0.26921655214299245
