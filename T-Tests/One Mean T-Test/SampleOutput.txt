@@ -1,0 +1,30 @@
+One Mean T-Test
+
+μx0 = hypothesized population mean
+x- = sample mean
+sx = sample std dev
+nx = sample size
+
+Enter μx0: 6.5
+Enter x-: 5.5
+Enter sx: 1.5
+Enter nx: 15
+
+Test Statistic and Degrees of Freedom
+t = -2.581988897471611
+df = 14
+
+Two-Sided Test
+H0: μx == 6.5
+HA: μx =/= 6.5
+p = 0.02172524319861176
+
+Left-Sided Test
+H0: μx >= 6.5
+HA: μx < 6.5
+p = 0.01086262159930588
+
+Right-Sided Test
+H0: μx <= 6.5
+HA: μx > 6.5
+p = 0.9891373784006942
