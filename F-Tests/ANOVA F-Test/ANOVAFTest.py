@@ -20,23 +20,23 @@ n = nx * 3
 
 x1 = []
 for i in range(nx):
-    temp = float(input("Enter x1" + str(i + 1) + ": "))
+    temp = float(input("Enter x" + str(i + 1) + "1: "))
     while temp <= 0.0:
-        temp = float(input("Enter x1" + str(i + 1) + ": "))
+        temp = float(input("Enter x" + str(i + 1) + "1: "))
     x1.append(temp)
 
 x2 = []
 for i in range(nx):
-    temp = float(input("Enter x2" + str(i + 1) + ": "))
+    temp = float(input("Enter x" + str(i + 1) + "2: "))
     while temp <= 0.0:
-        temp = float(input("Enter x2" + str(i + 1) + ": "))
+        temp = float(input("Enter x" + str(i + 1) + "2: "))
     x2.append(temp)
 
 x3 = []
 for i in range(nx):
-    temp = float(input("Enter x3" + str(i + 1) + ": "))
+    temp = float(input("Enter x" + str(i + 1) + "3: "))
     while temp <= 0.0:
-        temp = float(input("Enter x3" + str(i + 1) + ": "))
+        temp = float(input("Enter x" + str(i + 1) + "3: "))
     x3.append(temp)
 print("")
 
