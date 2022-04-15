@@ -7,20 +7,20 @@ x3 = Category 3 values
 
 Enter nx: 5
 Enter x11: 3
-Enter x21: 3
-Enter x31: 4
-Enter x41: 5
-Enter x51: 5
 Enter x12: 3
-Enter x22: 5
-Enter x32: 5
-Enter x42: 5
-Enter x52: 7
 Enter x13: 4
+Enter x14: 5
+Enter x15: 5
+Enter x21: 3
+Enter x22: 5
 Enter x23: 5
+Enter x24: 5
+Enter x25: 7
+Enter x31: 4
+Enter x32: 5
 Enter x33: 6
-Enter x43: 7
-Enter x53: 8
+Enter x34: 7
+Enter x35: 8
 
 Hypotheses
 H0: μ1 == μ2 == μ3
